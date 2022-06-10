@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ed1036 (Ed)
-- 👀 I’m interested in ... java development, radiology software development (RIS / PACS) and other related software apps
-- 🌱 I’m currently learning ... Java development
-- 💞️ I’m looking to collaborate on ... radiology software development (RIS / PACS) and other related software apps
+- 👀 I’m interested in ... C# and Python development, Radiology and Imaging software (RIS/PACS), Financial Institution Software development and creating and  supporting applications across the enterprise
+- 🌱 I’m currently learning ... Python, C# and SQL development
+- 💞️ I’m looking to collaborate on ... radiology software (cohesively developed RIS, PACS, VIEWER, STORAGE, TRANSPORT software) and other apps
